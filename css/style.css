@@ -1,0 +1,16 @@
+ 
+
+body {background: beige;}
+header {border-bottom: 2px solid black;
+margin: 0px;}
+
+.quadrato {
+    box-sizing: border-box;
+    background: white;
+    width: 1000px;
+    padding: 15px;
+    margin: 15px auto;
+    border:2px solid black;
+}
+
+footer {border-top: 2px solid black;}
